@@ -8,7 +8,6 @@ import com.orm.SugarRecord;
 
 public class TwoWords extends SugarRecord {
     String name;
-    Writer writer;
 
     public TwoWords(){
 
