@@ -22,6 +22,5 @@ public class MainActivity extends AppCompatActivity {
         }
         Writer writer = new Writer();
         List<TwoWords> list = writer.getTwoWords();
-        String jyaku = "pp";
     }
 }
